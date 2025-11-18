@@ -94,26 +94,6 @@ allFilter.forEach((filterElem) => {
     })
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 let timerID;
 let counter = 0; // Represents total seconds
 let timer = document.querySelector(".timer");
